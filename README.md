@@ -13,3 +13,4 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-000?style=flat-quare&labelColor=000&logo=youtube&logoColor=white&link=link)]([link](https://www.youtube.com/channel/UCxU3u0nWhDz0LtYM6spOA8g))
 
 <img src="https://github-readme-stats.vercel.app/api?username=rotwex&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+[![GitHub Streak](https://streak-stats.demolab.com?user=rotwex&theme=dark&border_radius=5&background=000000&dates=DDDDDD&border=DDDDDD&stroke=DDDDDD&ring=DDDDDD&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD)](https://git.io/streak-stats)
