@@ -1,15 +1,34 @@
-# Hi! Let me introduce myself to you;
-- My name is Burhan I am 15 years old
-- In the last 10 11 months, I have concentrated on web development, I have received and watched many trainings, now I have just started to develop myself and I am trying to read other people's codes.
-- You can access the ready-made infrastructures that I use shared on Github and my own infrastructure and projects from my profile.
-- I would like to thank the project owners whose infrastructure I use, if there is a problem, I leave my contact addresses below.
-- My Own Website: Coming soon.
+<img src="">
 
-# My contact addresses
+<h3>💻 Hello Visitor!</h3> 
+- Kısaca kendimden bahsedeyim. Ben Rotwex, 15 yaşındayım. Öğrenmeye ve gelişmeye her zaman açığım.
+Yaklaşık 2 yıldır yazılım ile uğraşıyorum. Her zaman kendimi geliştirmeye devam edeceğim!
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](github.com/rotwex)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=flat-quare&labelColor=000&logo=instagram&logoColor=white&link=link)]([instagram](https://www.instagram.com/rotwexdev/))
-[![Discord Badge](https://img.shields.io/badge/-Discord-000?style=flat-quare&labelColor=000&logo=discord&logoColor=white&link=link)](discord.com/users/529248141757775904)
-[![Youtube Badge](https://img.shields.io/badge/-YouTube-000?style=flat-quare&labelColor=000&logo=youtube&logoColor=white&link=link)]([link](https://www.youtube.com/channel/UCxU3u0nWhDz0LtYM6spOA8g))
+<div align="center">
+<h3>Contact İnformation</h3>
+<a href="https://discord.com/users/612612040481046529" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
+<a href="https://www.youtube.com/@rotwex" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://twitter.com/rotwex" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+</div>
 
-<img src="https://streak-stats.demolab.com?user=rotwex&theme=dark&border_radius=5&background=000000&dates=DDDDDD&border=DDDDDD&stroke=DDDDDD&ring=DDDDDD&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD">
+
+<div align="center">
+<h3>Languages and Tools</h3>
+<a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
+
+<img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
+<img src="https://img.shields.io/badge/Python%20-111111.svg?&style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
+<img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
+<img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
+</div>
+
+
+<div >
+<h3>Github Stat</h3>
+ <div><img src="https://komarev.com/ghpvc/?username=rotwex&&label=PROFILE+VIEWS&color=grey"/></div>
+   <a href="https://github.com/rotwex" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/?username=rotwex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+   </a>
+</div>
