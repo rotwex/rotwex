@@ -1,7 +1,7 @@
 <img src="https://cdn.discordapp.com/attachments/1042810428398514196/1043244909467013180/banner.png">
 
 <h3>💻 Hello Visitor!</h3> 
-- Kısaca kendimden bahsedeyim. Ben Rotwex, 15 yaşındayım. Öğrenmeye ve gelişmeye her zaman açığım.
+- Kısaca kendimden bahsedeyim. Ben Rotwex, 16 yaşındayım. Öğrenmeye ve gelişmeye her zaman açığım.
 Yaklaşık 2 yıldır yazılım ile uğraşıyorum. Her zaman kendimi geliştirmeye devam edeceğim!
 
 <div align="center">
