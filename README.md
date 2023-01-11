@@ -1,15 +1,15 @@
 <img src="https://cdn.discordapp.com/attachments/1042810428398514196/1043244909467013180/banner.png">
 
 <h3>💻 Hello Visitor!</h3> 
-- Kısaca kendimden bahsedeyim. Ben Rotwex, 16 yaşındayım. Öğrenmeye ve gelişmeye her zaman açığım.
+- Kısaca kendimden bahsedeyim. Ben Wexzzers, 15 yaşındayım. Öğrenmeye ve gelişmeye her zaman açığım.
 Yaklaşık 2 yıldır yazılım ile uğraşıyorum. Her zaman kendimi geliştirmeye devam edeceğim!
 
 <div align="center">
 <h3>Contact İnformation</h3>
-<a href="https://discord.com/users/612612040481046529" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+<a href="https://discord.com/users/273878557925703680" target"blank_"><img src="https://img.shields.io/badge/discord%20-111111.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="/" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-111111.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-<a href="https://www.youtube.com/@rotwex" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
-<a href="https://twitter.com/rotwex" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://www.youtube.com/@wexzzers" target"blank_"><img src="https://img.shields.io/badge/youtube%20-111111.svg?&style=for-the-badge&logo=youtube&logoColor=white"></a>
+<a href="https://twitter.com/wezzzers" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-111111.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 </div>
 
 
@@ -27,8 +27,8 @@ Yaklaşık 2 yıldır yazılım ile uğraşıyorum. Her zaman kendimi geliştirm
 
 <div >
 <h3>Github Stat</h3>
- <div><img src="https://komarev.com/ghpvc/?username=rotwex&&label=PROFILE+VIEWS&color=grey"/></div>
-   <a href="https://github.com/rotwex" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/?username=rotwex&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
+ <div><img src="https://komarev.com/ghpvc/?username=wexzzers&&label=PROFILE+VIEWS&color=grey"/></div>
+   <a href="https://github.com/v" target="_blank">
+      <img src="https://github-readme-stats.vercel.app/api/?username=wexzzers&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515">
    </a>
 </div>
